@@ -121,6 +121,7 @@ header .burger_icon{
 
 header .burger_icon:hover{
 	cursor: pointer;
+	color: #ba9ee6;
 }
 
 header .burger_icon.active{
@@ -144,6 +145,7 @@ header nav li:first-child{
 
 header nav li a{
 	color: #fff;
+	background-color: #400705;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 
@@ -156,7 +158,7 @@ header nav li a{
 header nav li a:hover,
 header nav li a:focus{
 	text-decoration: none;
-	color: #B7EFD1!important;
+	color: #ba9ee6!important;
 }
 
 header .social{
@@ -486,7 +488,7 @@ a.main_link{
 	font-size: 14px;
 }
 
-.#tslider{
+#tslider{
 	text-align: center!important;
 	position: relative!important;
 }
