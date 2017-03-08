@@ -88,7 +88,7 @@ header{
 	height: 130px;
 	z-index: 99;
   /* CHANGE HEADER COLOR */
-	background-color: #400705;
+	background-color: #cfcfe1;
 }
 
 header .logo{
@@ -145,7 +145,7 @@ header nav li:first-child{
 
 header nav li a{
 	color: #fff;
-	background-color: #400705;
+	background-color: #cfcfe1;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 
@@ -404,7 +404,7 @@ a.main_link{
 	width: 100%;
 	padding: 100px 0 20px 0;
   /* CHANGE FEATURE COLOR */
-	background-color: #400705;
+	background-color: #cfcfe1;
 }
 
 .features h1{
@@ -649,7 +649,7 @@ footer{
 	padding: 50px 0;
 	text-align: center;
   /*CHANGE FOOTER BACKGROUND COLOR*/
-  background-color: #eaeaea;
+  background-color: #cfcfe1;
 }
 
 footer .app_platform li{
