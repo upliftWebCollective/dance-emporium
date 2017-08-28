@@ -5,3 +5,4 @@ Credits :
 -Icons by dribbble.com/victorerixon
 -Template url: http://pixelhint.com/demo/capture/
 *For reuse, refer to "license & credits.txt"*
+# lbp-cloned
